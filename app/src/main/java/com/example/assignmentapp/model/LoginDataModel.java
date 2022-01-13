@@ -1,8 +1,6 @@
 package com.example.assignmentapp.model;
 
-import java.io.Serializable;
-
-public class LoginDataModel implements Serializable {
+public class LoginDataModel {
 
     private String mobile;
     private String password;

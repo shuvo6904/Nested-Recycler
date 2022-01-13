@@ -1,4 +1,4 @@
-package com.example.assignmentapp.network;
+package com.example.assignmentapp.service;
 
 import com.example.assignmentapp.model.CategoryResponseModel;
 import com.example.assignmentapp.model.LoginDataModel;
@@ -10,7 +10,7 @@ import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.Header;
 import retrofit2.http.POST;
 
-public interface ApiInterface {
+public interface UserClient {
 
     @POST("api/login")
     Call<LoginResponseModel> login(@Body LoginDataModel loginDataModel);

@@ -3,9 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Projects/Assignment-Task-master/Assignment-Task-master/app/src/main/res/layout/activity_login.xml" value="0.3625" />
-        <entry key="..\:/Android Projects/Assignment-Task-master/Assignment-Task-master/app/src/main/res/layout/activity_main.xml" value="0.3625" />
-        <entry key="..\:/Android Projects/Assignment-Task-master/Assignment-Task-master/app/src/main/res/layout/category_list_single_row.xml" value="0.3625" />
         <entry key="..\:/Android Projects/AssignmentApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Android Projects/AssignmentApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
